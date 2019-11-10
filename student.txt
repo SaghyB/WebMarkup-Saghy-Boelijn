@@ -1,0 +1,4 @@
+student name: Saghy Boelijn
+student number: 613712
+student class: INF1B
+URL student GitHub repository: https://github.com/SaghyB/WebMarkup-Saghy-Boelijn.git
